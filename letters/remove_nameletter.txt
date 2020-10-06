@@ -1,0 +1,23 @@
+{date}
+{name}
+{address1}
+{address2}
+{ssn}
+{dob}
+ 
+{credit_bureau_name}
+{credit_bureau_address}
+{credit_bureau_city}, {credit_bureau_state} {credit_bureau_zip}
+ 
+Dear {credit_bureau_name}:
+Please be advised that you are reporting the wrong name information on my credit report.  I am in the process of a new loan transaction and the error is causing a problem with my credit scores reporting properly, so any help you can give me with updating this information as soon as possible would be greatly appreciated.
+My current name:  {current_name}
+Please remove the following name(s) from my report as they do not belong to me and are being reported in error:
+Wrong Address:  {wrong_name}
+I will await an updated copy of my credit report to reflect these changes.
+Thanking you in advance.
+Sincerely,
+{name}
+ATTACHED DRIVERS LICENSE AND SS CARD
+
+
